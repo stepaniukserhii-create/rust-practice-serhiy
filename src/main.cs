@@ -1,6 +1,9 @@
-#[cfg(test)]
-mod hackerrank;
+using System;
 
-fn main() {
-    println!("We learn Rust!");
+class Program
+{
+    static void Main()
+    {
+        Console.WriteLine("We learn Rust!");
+    }
 }
